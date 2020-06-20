@@ -42,7 +42,6 @@ public abstract class Osoba {
         return "Osoba{" +
                 "imie='" + imie + '\'' +
                 ", nazwisko='" + nazwisko + '\'' +
-                ", age=" + age +
-                '}';
+                ", age=" + age;
     }
 }

@@ -15,6 +15,6 @@ public class Pracownik extends Osoba {
 
     @Override
     public String toString() {
-        return super.toString() + pensja;
+        return super.toString() + "pensja= " + pensja;
     }
 }

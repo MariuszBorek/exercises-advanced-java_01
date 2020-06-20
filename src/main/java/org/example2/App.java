@@ -23,5 +23,11 @@ public class App {
 
         System.out.println(manager.toString());
 
+        String[] jezykiProgramowania = {"java", "python", "php", "javascript"};
+        String[] specjalizacja = {"spring", "coś tam"};
+
+        Osoba osoba = new ProgramistaSenior("Jan", "Niezbedny", 25, 20_000, jezykiProgramowania, specjalizacja);
+        System.out.println(osoba.toString());
+
     }
 }
