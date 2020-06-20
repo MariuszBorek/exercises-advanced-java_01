@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="829ef0db-1690-4dc2-8033-7a6e9ce509b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example2/ProgramistaSenior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/zad_2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/zad_3/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/zad_3/Samolot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example2/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/zad_2/App.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App (1)">
+  <component name="RunManager" selected="Application.App (3)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example2.App" />
       <module name="ooplesson" />
@@ -63,6 +62,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.zad_3.App" />
+      <module name="ooplesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.zad_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (3)" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (2)" />
@@ -119,10 +132,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1592654203974">
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1592655188817">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592654203974" />
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592655188817" />
     <state x="513" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592649817295">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -135,22 +148,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="600" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592654501579" />
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1592654770078">
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1592654810973">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592654770078" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1592654770075">
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592654810973" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1592654810971">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592654770075" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1592654770073">
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592654810971" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1592654810970">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592654770073" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1592654770077">
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592654810970" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1592654810972">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592654770077" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592654810972" />
     <state width="1878" height="375" key="GridCell.Tab.1.bottom" timestamp="1592637829310">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
