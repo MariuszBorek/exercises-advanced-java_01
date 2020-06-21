@@ -2,20 +2,18 @@ package org.zad_3;
 
 public class App {
     public static void main(String[] args) {
+
         Samolot samolot = new Samolot() {
             @Override
             public String getNazwa() {
-                setNazwa("samolot 1");
-                return super.getNazwa();
-
+                return "samolot 1";
             }
         };
 
         Samolot samolot2 = new Samolot() {
             @Override
             public String getNazwa() {
-                setNazwa("samolot 2");
-                return super.getNazwa();
+                return "samolot 2";
 
             }
         };
@@ -23,8 +21,7 @@ public class App {
         Samolot samolot3 = new Samolot() {
             @Override
             public String getNazwa() {
-                setNazwa("samolot 3");
-                return super.getNazwa();
+                return "samolot 3";
 
             }
         };

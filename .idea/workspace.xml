@@ -2,10 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="829ef0db-1690-4dc2-8033-7a6e9ce509b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/zad_3/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/zad_3/Samolot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example7enum/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example7enum/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example7enum/zad_2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example7enum/zad_2/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example7enum/zad_4enum/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example7enum/zad_4enum/Seasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/example_1/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/example_1/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/example_1/ObjectBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/example_1/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/BoxForShapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/example_1/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/example_1/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/example_2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/example_2/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/example_2/Operacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/zad_1/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/zad_1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/zad_1/DivideByZeroException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/zad_2/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example3/Osoba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example3_unmutable/Osoba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example3/Passport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example3_unmutable/Passport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/zad_3/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/zad_3/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/zad_3/Samolot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/zad_3/Samolot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example3/Osoba.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example3/Passport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/zad_3/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/zad_3/App$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/zad_3/App$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/zad_3/App$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/zad_3/App$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/zad_3/App$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/zad_3/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/zad_3/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/zad_3/Samolot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/zad_3/Samolot.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +46,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -42,26 +74,13 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App (3)">
-    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example2.App" />
-      <module name="ooplesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.App (1)">
     <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example5.App" />
+      <option name="MAIN_CLASS_NAME" value="org.example_wyjatki.example_2.App" />
       <module name="ooplesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example5.*" />
+          <option name="PATTERN" value="org.example_wyjatki.example_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,37 +89,76 @@
       </method>
     </configuration>
     <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example_wyjatki.zad_1.App" />
+      <module name="ooplesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example_wyjatki.zad_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example7enum.zad_2.App" />
+      <module name="ooplesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example7enum.zad_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example7enum.zad_4enum.App" />
+      <module name="ooplesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example7enum.zad_4enum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example_wyjatki.example_1.App" />
+      <module name="ooplesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example_wyjatki.example_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example_typygeneryczne.example_1.App" />
+      <module name="ooplesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example_typygeneryczne.example_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.zad_3.App" />
       <module name="ooplesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.zad_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.App" />
-      <module name="ooplesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example4.App" />
-      <module name="ooplesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example5.*" />
+          <option name="PATTERN" value="org.zad_3.ModelSamolotu" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,8 +168,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App (3)" />
         <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App (3)" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App" />
@@ -132,54 +190,66 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1592655188817">
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1592734276608">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592655188817" />
-    <state x="513" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592649817295">
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592734276608" />
+    <state x="513" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592674369970">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="513" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592649817295" />
-    <state x="734" y="427" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1592649818709">
+    <state x="513" y="472" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592674369970" />
+    <state x="734" y="427" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1592657685608">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="734" y="427" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592649818709" />
+    <state x="734" y="427" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592657685608" />
     <state x="600" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592654501579">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="600" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592654501579" />
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1592654810973">
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592689008320">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592654810973" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1592654810971">
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592689008320" />
+    <state width="1876" height="304" key="GridCell.Tab.0.bottom" timestamp="1592734990846">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592654810971" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1592654810970">
+    <state width="1876" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592734990846" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.22.1920.1058@0.0.1920.1080" timestamp="1592688361998" />
+    <state width="1876" height="304" key="GridCell.Tab.0.center" timestamp="1592734990844">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592654810970" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1592654810972">
+    <state width="1876" height="304" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592734990844" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.22.1920.1058@0.0.1920.1080" timestamp="1592688361996" />
+    <state width="1876" height="304" key="GridCell.Tab.0.left" timestamp="1592734990843">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592654810972" />
-    <state width="1878" height="375" key="GridCell.Tab.1.bottom" timestamp="1592637829310">
+    <state width="1876" height="304" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592734990843" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.22.1920.1058@0.0.1920.1080" timestamp="1592688361995" />
+    <state width="1876" height="304" key="GridCell.Tab.0.right" timestamp="1592734990845">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="304" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592734990845" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.22.1920.1058@0.0.1920.1080" timestamp="1592688361997" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom" timestamp="1592688362003">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592637829310" />
-    <state width="1878" height="375" key="GridCell.Tab.1.center" timestamp="1592637829307">
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.22.1920.1058@0.0.1920.1080" timestamp="1592688362003" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center" timestamp="1592688362001">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="375" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592637829307" />
-    <state width="1878" height="375" key="GridCell.Tab.1.left" timestamp="1592637829306">
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.22.1920.1058@0.0.1920.1080" timestamp="1592688362001" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left" timestamp="1592688362000">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="375" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592637829306" />
-    <state width="1878" height="375" key="GridCell.Tab.1.right" timestamp="1592637829309">
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.22.1920.1058@0.0.1920.1080" timestamp="1592688361999" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right" timestamp="1592688362002">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="375" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592637829309" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.22.1920.1058@0.0.1920.1080" timestamp="1592688362002" />
     <state x="448" y="121" key="SettingsEditor" timestamp="1592646782176">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

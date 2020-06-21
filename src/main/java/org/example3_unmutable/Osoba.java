@@ -1,4 +1,4 @@
-package org.example3;
+package org.example3_unmutable;
 
 public class Osoba {
     private String name;

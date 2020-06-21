@@ -1,9 +1,8 @@
-package org.example3;
+package org.example3_unmutable;
 
 import java.time.LocalDate;
 
 public class Passport {
-    //
     private final String numberPassport;
     private final LocalDate dataWydania;
     private final String[] wlascicilePaszportów;
