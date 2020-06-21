@@ -2,41 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="829ef0db-1690-4dc2-8033-7a6e9ce509b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example7enum/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example7enum/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example7enum/zad_2/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example7enum/zad_2/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example7enum/zad_4enum/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example7enum/zad_4enum/Seasons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/example_1/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/example_1/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/example_1/ObjectBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/example_1/Osoba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/BoxForShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/example_1/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/example_1/SomeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/example_2/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/example_2/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/example_2/Operacja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/zad_1/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/zad_1/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example_wyjatki/zad_1/DivideByZeroException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example3/Osoba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example3_unmutable/Osoba.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example3/Passport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example3_unmutable/Passport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/zad_3/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/zad_3/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/zad_3/Samolot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/zad_3/Samolot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example3/Osoba.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example3/Passport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/zad_3/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/zad_3/App$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/zad_3/App$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/zad_3/App$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/zad_3/App$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/zad_3/App$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/zad_3/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/zad_3/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/zad_3/Samolot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/zad_3/Samolot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/BoxForShapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/BoxForShapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example_typygeneryczne/zad_1/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +44,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example_typygeneryczne.zad_1.App" />
+      <module name="ooplesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example_typygeneryczne.zad_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example_wyjatki.example_2.App" />
       <module name="ooplesson" />
@@ -169,10 +151,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App (3)" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (2)" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>

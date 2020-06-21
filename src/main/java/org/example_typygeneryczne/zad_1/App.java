@@ -32,7 +32,7 @@ public class App {
         square[0] = new Square(15);
 
         BoxForShapes<Shape> boxForShapes = new BoxForShapes();
-        boxForShapes.getSumOfAllPerimeters(shape);
+        System.out.println(boxForShapes.getSumOfAllPerimeters(shape));
 
 
 

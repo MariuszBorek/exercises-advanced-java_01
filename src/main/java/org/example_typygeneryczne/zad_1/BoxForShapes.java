@@ -5,7 +5,11 @@ public class BoxForShapes<T extends Shape> {
     T[] array;
 
     int getSumOfAllPerimeters(T[] array) {
-        return 0;
+        int wynik= 0;
+        for(T t : array) {
+            wynik += t.getPerimeter();
+        }
+        return wynik;
     }
 
 }

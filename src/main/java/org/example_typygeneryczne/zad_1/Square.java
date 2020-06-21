@@ -10,7 +10,7 @@ public class Square implements Shape {
 
     @Override
     public double getPerimeter() {
-        return 0;
+        return 4 * length;
     }
 
     public double getLength() {
